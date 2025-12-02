@@ -49,33 +49,32 @@ It provides real-time prices, market statistics, search, portfolio tracking, and
 ## 📁 Project Structure
 
 CryptoTracker/
-│
 ├── Models/
-│ ├── Coin.swift
-│ ├── MarketData.swift
-│ └── PortfolioEntity (Core Data)
+│   ├── Coin.swift
+│   ├── MarketData.swift
+│   └── PortfolioEntity (Core Data)
 │
 ├── ViewModels/
-│ ├── HomeViewModel.swift
-│ ├── PortfolioViewModel.swift
-│ └── CoinDetailViewModel.swift
+│   ├── HomeViewModel.swift
+│   ├── PortfolioViewModel.swift
+│   └── CoinDetailViewModel.swift
 │
 ├── Views/
-│ ├── HomeView.swift
-│ ├── CoinRowView.swift
-│ ├── CoinDetailView.swift
-│ ├── SearchBarView.swift
-│ ├── PortfolioView.swift
-│ └── StatisticsView.swift
+│   ├── HomeView.swift
+│   ├── CoinRowView.swift
+│   ├── CoinDetailView.swift
+│   ├── SearchBarView.swift
+│   ├── PortfolioView.swift
+│   └── StatisticsView.swift
 │
 ├── Services/
-│ ├── NetworkManager.swift
-│ ├── CoinGeckoAPI.swift
-│ └── DataService.swift
+│   ├── NetworkManager.swift
+│   ├── CoinGeckoAPI.swift
+│   └── DataService.swift
 │
 └── Utilities/
-├── Extensions/
-└── Helpers/
+    ├── Extens
+
 
 
 
