@@ -88,16 +88,16 @@ CryptoTracker/
    ```bash
    git clone https://github.com/your-username/CryptoTracker.git
    
-    Open the project
+2. **Open the Project**
 
-    Open CryptoTracker.xcodeproj using Xcode
+3. **Open CryptoTracker.xcodeproj using Xcode**
 
-    No API key required!
+No API key required!
 
-    CoinGecko API is free and keyless
+CoinGecko API is free and keyless
 
-    App will fetch data instantly
+App will fetch data instantly
 
-    Run the app
+4. **Run the app**
 
     Command + R
