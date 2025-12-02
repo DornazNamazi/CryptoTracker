@@ -75,9 +75,7 @@ CryptoTracker/
 │
 └── Utilities/
 ├── Extensions/
-├── Helpers/
-└── Custom Components      
-
+└── Helpers/
 
 
 
