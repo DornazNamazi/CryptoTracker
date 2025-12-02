@@ -48,6 +48,10 @@ It provides real-time prices, market statistics, search, portfolio tracking, and
 
 ## 📁 Project Structure
 
+```html
+<h3>📁 Project Structure</h3>
+
+<pre>
 CryptoTracker/
 ├── Models/
 │   ├── Coin.swift
@@ -73,9 +77,9 @@ CryptoTracker/
 │   └── DataService.swift
 │
 └── Utilities/
-    ├── Extens
-
-
+    ├── Extensions/
+    └── Helpers/
+</pre>
 
 
 ---
